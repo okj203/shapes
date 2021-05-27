@@ -7,6 +7,7 @@ class Circle
 
     def area
         # area method
+        # pull demo
         Math::PI * @radius ** 2
     end
 end
